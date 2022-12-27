@@ -1,0 +1,7 @@
+Connet database
+
+We'll use the mock PostgreSQL database named 'users' available on Appsmith.
+
+On the Explorer tab, click the + sign next to DATASOURCES. Under Sample Databases, select users.
+
+The 'users' database will be added under the Explorer tab -> DATASOURCES.

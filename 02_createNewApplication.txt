@@ -1,0 +1,9 @@
+Create a New Application
+
+When creating a new Appsmith account, an application titled 'My first application' is automatically added under the default Workspace.
+
+You can use this application to build your first app or create a new one by clicking on the + New button under the Workspace.
+
+Hover over the 'My first application' card and click the Edit button to open the application.
+
+You'll land on the Appsmith editor. Select the Build with drag & drop option to start from scratch and create your custom UI.

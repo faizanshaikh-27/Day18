@@ -1,0 +1,15 @@
+Build UI
+
+Navigate to PAGES → User Information.
+
+Drag and drop a [Table] widget on the canvas. 
+On the Property Pane to the right, rename the table to 'usersTable'.
+
+Drag and drop a [Container] widget to the right of the Table widget. 
+Let's add a few widgets to display user details from the selected row on the table. 
+Add a label titled 'User Details'.
+
+Add Input widgets for Name (nameInput), Email (emailInput) and Phone (phoneInput), 
+a Datepicker widget for DOB (dobInput), 
+an Image widget for the Image and finally a Button widget labelled 'Update'.
+

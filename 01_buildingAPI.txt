@@ -1,0 +1,11 @@
+Build Your First App
+In this Quickstart guide, you will learn to:
+
+Create a new application
+Connect to a database
+Build UI by dragging and dropping widgets onto the canvas
+Write queries to fetch data from the database
+Bind data to widgets
+Deploy and share the application
+
+
